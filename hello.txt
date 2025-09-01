@@ -1,1 +1,2 @@
 hello github, this is my frist commit from vscode!
+adding a second line to the code
